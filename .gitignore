@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+runs/
+results/
+*.npz
+*.pt
+*.pth
+*.msh
+*.vtu
+*.vtk

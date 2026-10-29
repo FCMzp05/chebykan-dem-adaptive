@@ -1,6 +1,6 @@
 # Damage-adaptive ChebyKAN deep energy method for anisotropic phase-field fracture
 
-> **Status: manuscript under review.** This repository is a partial release that contains the core components of the method. The complete code, including all example drivers, the finite element reference solver, input data and the scripts that reproduce the figures and tables, will be made publicly available here upon acceptance of the manuscript.
+> **Status: submitted.** This repository is a partial release that contains the core components of the method. The complete code, including all example drivers, the finite element reference solver, input data and the scripts that reproduce the figures and tables, will be made publicly available here upon acceptance of the manuscript.
 
 Manuscript:
 

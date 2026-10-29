@@ -4,7 +4,7 @@
 
 Manuscript:
 
-> P. Zhang, P. Cui, K. Tang. *A Damage-Adaptive Mesh Deep Energy Method for Anisotropic Phase-Field Fracture*. Submitted to Computer Methods in Applied Mechanics and Engineering.
+> P. Zhang, P. Cui, K. Tang. *A Damage-Adaptive Mesh Deep Energy Method for Anisotropic Phase-Field Fracture*. Submitted to International Journal for Numerical Methods in Engineering.
 
 The solver represents displacement and damage by a Chebyshev Kolmogorov–Arnold network (ChebyKAN) and minimizes the discrete phase-field energy on a variable-node quadrilateral quadtree. Refinement inherits the network weights, prolongates the irreversible history exactly between nested meshes, and re-solves each load step at the same load before it is accepted. For anisotropic materials the refined region is an ellipse aligned with the fiber direction.
 
